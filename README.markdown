@@ -1,0 +1,3 @@
+This is a Mootools implementation of [nodejs-html-truncate](https://github.com/huang47/nodejs-html-truncate). The truncate function in Mootools More only contains basic truncating functionality. Using this plugin, you can truncate a string containing HTML, and have it close any open tags. It is perfect for implementing "Read More" truncation on text.
+
+I will update this to be a fully compliant Mootools plugin soon.
